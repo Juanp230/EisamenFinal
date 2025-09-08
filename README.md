@@ -1,8 +1,5 @@
 # Sistema de Información Penitenciario — Cárcel de Ocaña
 
-> **Estado:** Fase de Análisis (documento base para proyecto universitario).  
-> El contenido está elaborado únicamente con la información proporcionada y puede adaptarse en fases posteriores.
-
 ---
 
 ## Índice
