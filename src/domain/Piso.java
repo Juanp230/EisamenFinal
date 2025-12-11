@@ -4,8 +4,8 @@ package domain;
 import java.util.ArrayList;
 
 public class Piso {
-    private int numero;
-    private ArrayList<Celda> celdas;
+    private final int numero;
+    private final ArrayList<Celda> celdas;
 
     public Piso(int numero) {
         this.numero = numero;
